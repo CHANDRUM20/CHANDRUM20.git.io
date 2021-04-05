@@ -1,0 +1,61 @@
+.post_header{
+    display: flex;
+    align-items: center;
+    margin-bottom:45px;
+
+    justify-content: center;
+    align-items: center;
+
+}
+.form{
+    justify-content: center;
+    align-items: center;
+    margin-left: 27px;
+    
+}
+.firstname{
+    margin-bottom: 10px;
+}
+.lastname{
+    margin-bottom: 10px;
+}
+.forminput1-sp{
+    margin-bottom:30px;
+}
+.passwordinput{
+    margin-top: -20px;
+}
+.post_header h3{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.post_avatar{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+.btn-sp{
+    margin-left: 110px;
+}
+.firstnameinput{
+    padding-left:10px;
+    margin-left:10px;
+
+}
+.lastnameinput{
+    padding-left:10px;
+    margin-left:14px;
+    
+}
+
+.formuser{
+    padding-left:10px;
+    margin-left:40px;
+    width:190px;
+
+}
+.fromuser2{
+    padding-left:10px;
+    margin-left:10px;
+
+}
