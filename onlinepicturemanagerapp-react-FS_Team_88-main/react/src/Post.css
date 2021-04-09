@@ -1,0 +1,14 @@
+.like{
+    border:black;
+}
+.post_logo{
+    
+    margin-left: 5px;
+}
+.like button:hover{
+    color: rgb(255, 0, 0);
+    background-color:rgb(12, 11, 11) ;
+}
+.like post_logo:hover{
+        color:blue;
+}
